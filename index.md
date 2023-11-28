@@ -1,5 +1,7 @@
 Ethan Lee e3lee@ucsd.edu
+
 Tyler Ngo tdngo@ucsd.edu
+
 A02 Tiffany Amariuta
 
 \textbf{What is the most interesting topic covered in your domain this quarter?}
